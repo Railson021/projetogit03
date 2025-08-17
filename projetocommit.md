@@ -1,0 +1,1 @@
+Segundo arquivo para teste de alterações no git.
